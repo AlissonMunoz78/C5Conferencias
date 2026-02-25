@@ -4,6 +4,6 @@ frontend: https://c5-conferencias.vercel.app
 
 Credenciales de acceso
 
-Correo electrónico: lxoc@gmail.com
+Correo electrónico: ali@gmail.com
 
 Contraseña: 123456
